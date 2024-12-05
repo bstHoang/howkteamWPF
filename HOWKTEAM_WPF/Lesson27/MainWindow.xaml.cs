@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace HOWKTEAM_WPF
+namespace Lesson27
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

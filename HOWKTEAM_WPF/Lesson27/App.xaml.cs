@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace HOWKTEAM_WPF
+namespace Lesson27
 {
     /// <summary>
     /// Interaction logic for App.xaml

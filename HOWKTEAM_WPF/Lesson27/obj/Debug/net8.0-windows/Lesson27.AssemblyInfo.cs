@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HOWKTEAM_WPF")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Lesson27")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6cb43b5ebb75334dc27db51e8e1d1dc138863d1")]
-[assembly: System.Reflection.AssemblyProductAttribute("HOWKTEAM_WPF")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HOWKTEAM_WPF")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+974675c74c82328fc2b569a41dd78d402ef68c7e")]
+[assembly: System.Reflection.AssemblyProductAttribute("Lesson27")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Lesson27")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
